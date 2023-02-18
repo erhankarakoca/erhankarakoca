@@ -1,4 +1,4 @@
-- Hi there 👋
+Hi there 👋
 - 🎓 I'm a graduate master student from Istanbul Technical University.
 - 🔭 I'm very keen on programming and machine learning stuff.
 - 🌱 Nowadays I'm practicing and learning from scratch to refresh everything.
